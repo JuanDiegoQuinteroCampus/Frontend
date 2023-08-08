@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    
+}
+#login{
+    height: 100vh;
+    width: 100vh;
+}
+.negro{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.652);
+    justify-content: baseline;
+    object-fit: contain;
+}
+hr#linea {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgb(60, 9, 9);
+}
